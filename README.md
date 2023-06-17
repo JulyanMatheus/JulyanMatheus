@@ -1,6 +1,6 @@
 <h1 align="center">Oi 👋, eu sou Julyan Matheus</h1>
 <h3 align="center">Apaixonado por Designer Gráfico e Análise de Dados.</h3>
-
+- Sou autômo motorista de app e editor imagens e videos.
 - Atualmente estou aprimorando e desenvolvendo novas habilidades **Photoshop, after effects, Big Data & Analytics**
 
 - 💬 Me pergunte sobre **photoshop, after effects, google data studio, Power Bi,Excel**
