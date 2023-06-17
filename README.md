@@ -1,6 +1,8 @@
 <h1 align="center">Oi 👋, eu sou Julyan matheus</h1>
 <h3 align="center">Apaixonado por Designer Gráfico e Análise de Dados.</h3>
-- 🔭 Atualmente sou autônomo cursando gestão de tecnologia da informação
+
+- 🔭 Cursando gestão de tecnologia da informação [Uniasselvi](https://portal.uniasselvi.com.br/graduacao?gclid=CjwKCAjws7WkBhBFEiwAIi168xP6BaAaNkVigkIM1yT_9rfpCnHO0HRZXAfKvadQ-Zmu34l0ch6OpxoCALwQAvD_BwE)
+
 - 🌱Atualmente estou aprimorando e desenvolvendo novas habilidades **Photoshop, after effects, Big Data & Analytics**
 
 - 💬 Me pergunte sobre **photoshop, after effects, google data studio, Power Bi,Excel**
